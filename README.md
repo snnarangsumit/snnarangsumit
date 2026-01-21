@@ -47,11 +47,11 @@ Robust Java-based automation framework
 - **Tech:** Java | TestNG | Selenium | Maven
 - **Features:** Page Factory, ExtentReports, Data-driven approach
 
-### [REST API Automation Framework](https://github.com/snnarangsumit/MY-API-Project)
-Comprehensive API testing solution
-- **Tech:** Java | RestAssured | TestNG
-- **Features:** JSON validation, Environment management, CI/CD ready
-
+### [REST Assured API Framework](https://github.com/snnarangsumit/RestAssuredFramework)
+Enterprise REST API automation framework
+- **Tech:** Java | REST Assured | TestNG | Maven
+- **Features:** JSON validation, Request/Response validation, TestNG reports
+  
 ### [Postman API Collections](https://github.com/snnarangsumit/Postman)
 Production-ready API test collections
 - **Tech:** Postman | Newman | JavaScript
