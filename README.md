@@ -37,6 +37,11 @@ I specialize in building **automation-first, scalable frameworks** that improve 
 
 ## 📂 Featured Automation Frameworks
 
+### [Playwright Pytest Framework](https://github.com/snnarangsumit/Playwright-pytest-framework)
+Modern hybrid UI and API automation framework
+- **Tech:** Python | Playwright | Pytest | Allure
+- **Features:** Hybrid testing (UI + API), Parallel execution, CI/CD ready, Page Object Model
+
 ### [Python Pytest Selenium Framework](https://github.com/snnarangsumit/python-pytest-selenium-framework)
 Enterprise-grade UI automation framework with Page Object Model
 - **Tech:** Python | Pytest | Selenium WebDriver
