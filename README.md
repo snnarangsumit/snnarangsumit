@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Sumit Narang
-
 **Senior QA Engineer** | 14+ Years Experience | Automation Architect | Test Automation, API, AI & CI/CD
 
 ## 💼 About Me
-
 Senior QA Engineer with 14+ years of experience delivering high-quality software across Web, API, Mobile and Enterprise platforms in Banking, Financial Services, Healthcare, Insurance, and Digital Products.
 
 I specialize in building **automation-first, scalable frameworks** that improve coverage, accelerate release cycles, and reduce production risks.
@@ -21,7 +19,7 @@ I specialize in building **automation-first, scalable frameworks** that improve 
 - JMeter, Performance Validation
 
 ### **Programming & Databases**
-- Java, Python, JavaScript
+- Java, Python, JavaScript, TypeScript
 - SQL, MySQL, DB2
 
 ### **CI/CD & DevOps**
@@ -31,11 +29,17 @@ I specialize in building **automation-first, scalable frameworks** that improve 
 
 ### **Specializations**
 - AI-Driven Testing & GenAI Tools
+- LangChain Agent Framework Development
 - Machine Learning Model Validation
 - Test Strategy & Risk-Based Testing
 - Mobile & Cloud Testing
 
 ## 📂 Featured Automation Frameworks
+
+### [🤖 LangChain AI Agent Framework](https://github.com/snnarangsumit/LangChainFramework)
+Progressive AI agent framework with 7 real-world agent patterns
+- **Tech:** TypeScript | LangChain | LangGraph | Zod | OpenAI | Anthropic
+- **Features:** Tool use, Multi-tool orchestration, Persistent memory, Dynamic model switching, Model fallback & resilience, PII guardrails, RAG pipeline, MCP server integration
 
 ### [Playwright Pytest Framework](https://github.com/snnarangsumit/Playwright-pytest-framework)
 Modern hybrid UI and API automation framework
@@ -56,7 +60,7 @@ Robust Java-based automation framework
 Enterprise REST API automation framework
 - **Tech:** Java | REST Assured | TestNG | Maven
 - **Features:** JSON validation, Request/Response validation, TestNG reports
-  
+
 ### [Postman API Collections](https://github.com/snnarangsumit/Postman)
 Production-ready API test collections
 - **Tech:** Postman | Newman | JavaScript
@@ -70,6 +74,7 @@ Production-ready API test collections
 
 ## 🔬 Current Focus
 - AI-Driven Testing & GenAI Integration
+- LangChain & LangGraph Agent Development
 - Playwright Automation
 - Machine Learning Model Validation
 - Advanced CI/CD Strategies
@@ -79,7 +84,6 @@ Production-ready API test collections
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-narang15)
 
 ---
-
 💡 **Passionate about blending strong QA fundamentals with modern automation, AI, and DevOps practices**
 
 ⭐ **Open to collaboration and knowledge sharing**
