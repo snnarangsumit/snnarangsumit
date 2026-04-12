@@ -30,6 +30,7 @@ I specialize in building **automation-first, scalable frameworks** that improve 
 ### **Specializations**
 - AI-Driven Testing & GenAI Tools
 - LangChain Agent Framework Development
+- RAG Pipeline Testing & LLM Evaluation
 - Machine Learning Model Validation
 - Test Strategy & Risk-Based Testing
 - Mobile & Cloud Testing
@@ -40,6 +41,11 @@ I specialize in building **automation-first, scalable frameworks** that improve 
 Progressive AI agent framework with 7 real-world agent patterns
 - **Tech:** TypeScript | LangChain | LangGraph | Zod | OpenAI | Anthropic
 - **Features:** Tool use, Multi-tool orchestration, Persistent memory, Dynamic model switching, Model fallback & resilience, PII guardrails, RAG pipeline, MCP server integration
+
+### [🔬 RAG LLM Evaluation Framework](https://github.com/snnarangsumit/RAG_LLM_Evaluation)
+End-to-end RAG pipeline evaluation framework using industry-standard RAGAS metrics
+- **Tech:** Python | RAGAS | LangChain | OpenAI GPT-4 | Pytest | pytest-asyncio
+- **Features:** Context Precision & Recall evaluation, Parametrized data-driven tests, Synthetic test data generation, Secure API key management via dotenv, GitHub Actions CI/CD pipeline
 
 ### [Playwright Pytest Framework](https://github.com/snnarangsumit/Playwright-pytest-framework)
 Modern hybrid UI and API automation framework
@@ -75,6 +81,7 @@ Production-ready API test collections
 ## 🔬 Current Focus
 - AI-Driven Testing & GenAI Integration
 - LangChain & LangGraph Agent Development
+- RAG Pipeline Testing & LLM Evaluation (RAGAS)
 - Playwright Automation
 - Machine Learning Model Validation
 - Advanced CI/CD Strategies
