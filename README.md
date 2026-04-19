@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Sumit Narang
-**Senior QA Engineer** | Driving Scalable Quality with Automation, API & AI | CI/CD | Data Analytics | PSM I, PSPO I
+**Senior QA Automation Engineer** | QA Architect | Test Automation, API & CI/CD | Data Analytics | PSM I, PSPO I
+
+
 
 ## 💼 About Me
-Senior QA Engineer with 14+ years of experience delivering high-quality software across Web, API, Mobile and Enterprise platforms in Banking, Financial Services, Healthcare, Insurance, and Digital Products.
+Senior QA Automation Engineer with 14+ years of experience delivering high-quality software across Web, API, Mobile and Enterprise platforms in Banking, Financial Services, Healthcare, Insurance, and Digital Products.
 
 I specialize in building **automation-first, scalable frameworks** that improve coverage, accelerate release cycles, and reduce production risks.
 
