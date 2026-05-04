@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sumit Narang
-**Senior QA Automation Engineer** | Test Automation Architect | Quality Engineering | Data Analytics
+**Senior QA Automation Engineer** | Test Automation Architect | API & CI/CD | Data Analytics
 
 
 
