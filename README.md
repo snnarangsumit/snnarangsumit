@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sumit Narang
-**Senior Quality Engineer** | Test Automation | API & AI | CI/CD | Business Analysis | PSM I, PSPO I
+**Senior Quality Engineer** | Test Automation | API & AI | CI/CD |  Performance Testing | PSPO I
 
 
 
